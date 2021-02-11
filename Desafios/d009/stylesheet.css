@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+#index {
+    background-color: #212121;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.cursopage {
+    background-color: #212121;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
